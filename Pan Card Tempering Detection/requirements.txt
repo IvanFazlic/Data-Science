@@ -1,0 +1,7 @@
+Flask~=2.3.2
+imutils~=0.5.3
+opencv-python-headless
+Pillow~=10.0.0
+scikit-image~=0.21.0
+gunicorn
+opencv-python~=4.8.0.74
