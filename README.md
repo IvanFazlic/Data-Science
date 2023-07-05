@@ -47,4 +47,4 @@ Feel free to navigate through the project folders and explore the various data s
 
 If you have any questions or suggestions, feel free to reach out or open an issue in the repository. We appreciate your feedback and hope you find these projects valuable in expanding your knowledge and skills in data science.
 
-Happy exploring and thank you for your time!
+**Happy exploring and thank you for your time**!
